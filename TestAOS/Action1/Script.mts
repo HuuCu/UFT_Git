@@ -1,4 +1,4 @@
-﻿Call  OpenWebsite
+﻿Call OpenWeb
 Browser("Advantage Shopping_2").Page("Advantage Shopping").Link("UserMenu").Click @@ script infofile_;_ZIP::ssf1.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebEdit("username").Set "userdemo" @@ script infofile_;_ZIP::ssf2.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Password").Click @@ script infofile_;_ZIP::ssf3.xml_;_
