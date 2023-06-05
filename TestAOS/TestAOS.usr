@@ -13,8 +13,8 @@ DevelopTool=AQT
 [Actions]
 Action0=Action0\Script.mts
 Login=Action1\Script.mts
-Checkout=Action2\Script.mts
-Order=Action3\Script.mts
+Order=Action2\Script.mts
+Checkout=Action3\Script.mts
 Logout=Action4\Script.mts
 
 [VuserProfiles]

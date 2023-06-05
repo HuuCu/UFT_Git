@@ -1,4 +1,4 @@
 ﻿RunAction "Login", oneIteration
-RunAction "Checkout", oneIteration
 RunAction "Order", oneIteration
+RunAction "Checkout", oneIteration
 RunAction "Logout", oneIteration
